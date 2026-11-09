@@ -51,3 +51,4 @@ console.log(b); // Error, Not Defined
 // c() = [[lexical environment pointer pointing to a()]]
 // a() = [b:10, c:{}, [lexical environment pointer pointing to GEC]]
 // GEC =  [a:{},[lexical_environment pointer pointing to null]]
+
